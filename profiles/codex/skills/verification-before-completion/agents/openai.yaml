@@ -1,0 +1,7 @@
+interface:
+  display_name: "Verification Before Completion"
+  short_description: "Check outcomes before reporting work as complete"
+  default_prompt: "$verification-before-completion 으로 완료 보고에 필요한 검사를 수행하고 확인된 결과와 한계를 정리해줘."
+
+policy:
+  allow_implicit_invocation: true

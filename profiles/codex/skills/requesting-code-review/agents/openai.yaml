@@ -1,0 +1,7 @@
+interface:
+  display_name: "Requesting Code Review"
+  short_description: "Scope reviews and track substantial code changes"
+  default_prompt: "$requesting-code-review 스킬로 현재 작업 규모에 맞게 진행하고 변경사항을 검토해줘."
+
+policy:
+  allow_implicit_invocation: true

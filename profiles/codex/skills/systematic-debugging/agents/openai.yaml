@@ -1,0 +1,7 @@
+interface:
+  display_name: "Systematic Debugging"
+  short_description: "Trace bug causes and make focused, verified fixes"
+  default_prompt: "$systematic-debugging 으로 현재 프로젝트의 오류 원인을 확인하고 기존 지침에 맞춰 수정해줘."
+
+policy:
+  allow_implicit_invocation: true

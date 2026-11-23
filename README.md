@@ -2,6 +2,8 @@
 
 Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them.
 
+For Codex users of this fork, the [three-skill profile](profiles/codex/README.md) installs debugging, verification, and code review. Small changes use a focused check. Longer work can use one implementer with a final review or authorized fresh implementers with per-task reviews. Both modes keep a resumable work record.
+
 ## Table of Contents
 
 - [How it works](#how-it-works)
